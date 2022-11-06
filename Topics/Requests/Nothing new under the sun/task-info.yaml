@@ -1,0 +1,14 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: |-
+    def database_manipulator():
+        return    # your code here
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/17337#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Fri, 21 Oct 2022 06:26:40 UTC"
+record: -1

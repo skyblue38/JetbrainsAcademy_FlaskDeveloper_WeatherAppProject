@@ -1,0 +1,20 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: |-
+    from flask import Flask, request, make_response
+
+    app = Flask('main')
+
+    @app.route('URL')
+    def main_view():
+        # your code here
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/17339#comment
+status: Failed
+feedback:
+  message: |
+    Failed test #1 of 3. Wrong answer
+  time: "Sat, 05 Nov 2022 13:03:17 UTC"
+record: -1

@@ -1,0 +1,23 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: A prefix with the name of the environment will appear.
+- text: There will be a message showing the activation.
+- text: A new console will open with an activation message.
+- text: There's no way to do it.
+files:
+- name: main.py
+  visible: true
+  text: |+
+    #  You can experiment here, it won’t be checked
+
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/17328#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Wed, 19 Oct 2022 11:14:33 UTC"
+record: -1
+selected_options:
+- 0
+local_check: false

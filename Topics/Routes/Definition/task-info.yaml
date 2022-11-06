@@ -1,0 +1,23 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: It allows a programmer to quickly find routes in the code
+- text: It is used for beauty
+- text: It lets us create routes in the code
+- text: It tells Flask which URL triggers our function
+files:
+- name: main.py
+  visible: true
+  text: |+
+    #  You can experiment here, it won’t be checked
+
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/17351#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Thu, 20 Oct 2022 11:24:30 UTC"
+record: -1
+selected_options:
+- 3
+local_check: false
